@@ -41,4 +41,6 @@ docker compose -f docker-compose.dependencies.yml up
 
 ## Other resources
 
+Youtube: https://www.youtube.com/watch?v=l1_i8p2hVlE
+
 To do this exploration in general, but particularly the RabbitMQ bits, relied heavily on the docs and examples provided in the [OpenTelemetry .NET repository](https://github.com/open-telemetry/opentelemetry-dotnet), like the [OpenTelemetry Example Application](https://github.com/open-telemetry/opentelemetry-dotnet/tree/core-1.1.0/examples/MicroserviceExample).
